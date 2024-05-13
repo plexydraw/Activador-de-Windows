@@ -174,9 +174,9 @@ print(Fore.YELLOW + Style.BRIGHT + """
 
       ➤ Desarrollado por "Plexy-draw"
 
-      ➤ Github: 
+      ➤ Github: https://github.com/plexydraw
 
-      ➤ Discord:
+      ➤ Discord: plexydraw
 
     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
       
